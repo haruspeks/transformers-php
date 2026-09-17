@@ -16,7 +16,7 @@ Part-of-Speech (PoS) tagging, which involves identifying whether words are nouns
 
 ## Default Model
 
-- `Xenova/bert-base-multilingual-cased-ner-hrlh`
+- `Xenova/bert-base-multilingual-cased-ner-hrl`
 
 ## Use Cases
 
